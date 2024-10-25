@@ -5,3 +5,4 @@ twine
 mkdocs
 docutils
 coveragespace
+Flask-API
